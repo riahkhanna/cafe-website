@@ -1,0 +1,5 @@
+{
+  "name": "Cafe & Chaos",
+  "description": "A fully functional cafe ordering website with menu management, cart system, and admin dashboard.",
+  "requestFramePermissions": []
+}
